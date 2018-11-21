@@ -11,6 +11,10 @@ Ok I will Tell you How To Set Up You Arduino and Tfmini With Servo
  - Remove Red Wire(Vcc) For Uploading Your Coding Otherwise fine If code Get Upload(espcomm .... Error Troubleshooting)
  - Place your Servo's as Shown In Final Project Proper Wiring as to remove any Tangled Wire 
  - Use Long Wires and tape them so that connection Shouldn't Loose
+ 
+ Libraries Can Be Downloaded Here: 
+Arduino IDE :  https://www.arduino.cc/en/Main/Software%7C
+DFRobot TF Mini Library : https://github.com/Arduinolibrary/DFRobot_TF_Mini_Laser_Range_Finder/raw/master/DFRobot_TFmini.rar
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 **We Used Tera Term (Software) to convert Log into a .txt Format File To upload in A software
