@@ -13,6 +13,9 @@ Make Sure To Follow Evry Single Step Carefully And As Told
 Download All The Softwares Given Below
 
 Displaz Software : http://c42f.github.io/displaz/
+
 Tera Term Software : https://osdn.net/projects/ttssh2/releases/
+
 Arduino IDE :  https://www.arduino.cc/en/Main/Software%7C
+
 DFRobot TF Mini Library : https://github.com/Arduinolibrary/DFRobot_TF_Mini_Laser_Range_Finder/raw/master/DFRobot_TFmini.rar
