@@ -1,8 +1,8 @@
  /*
-  * @File  : DFRobot_TFmini_test.ino
+  * @File  : PervinderTFminiarduinoCode.ino
   * @Brief : This example use TFmini to measure distance
-  *         With initialization completed, we can get distance value and signal strength
-  * @Copyright   [DFRobot](http://www.dfrobot.com), 2016
+  *         With initialization completed, we can get x,y,z co-ordinate of the point
+  *
   *             GNU Lesser General Public License
   *
   * @version  V1.0
