@@ -10,11 +10,11 @@ So Every thing in The Whole Project open Source and Free
 Make Sure To Follow Evry Single Step Carefully And As Told 
 
 
-Download All The Softwares Given Below
+Download All The Softwares Given Below Just Click Them And Your Download Will Start
 
-Displaz Software : http://c42f.github.io/displaz/
+Displaz Software : https://github.com/c42f/displaz/releases/download/v0.4.0/displaz-0.4.0-win64.exe
 
-Tera Term Software : https://osdn.net/projects/ttssh2/releases/
+Tera Term Software : https://osdn.net/projects/ttssh2/downloads/69976/teraterm-4.100.exe/
 
 Arduino IDE :  https://www.arduino.cc/en/Main/Software%7C
 
