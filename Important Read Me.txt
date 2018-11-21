@@ -1,0 +1,52 @@
+Thank You For Choosing My Project 
+
+
+Note: The Software Used in The Whole Project Are Only For Windows Only I don't Have Alternatives For Mac Or Linux  
+
+Ok I will Tell you How To Set Up You Arduino and Tfmini With Servo 
+
+
+1.Arduino And TFMini Setup
+ - Make Connection As Shown In The Schematic Diagram
+ - Remove Red Wire(Vcc) For Uploading Your Coding Otherwise fine If code Get Upload(espcomm .... Error Troubleshooting)
+ - Place your Servo's as Shown In Final Project Proper Wiring as to remove any Tangled Wire 
+ - Use Long Wires and tape them so that connection Shouldn't Loose
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+**We Used Tera Term (Software) to convert Log into a .txt Format File To upload in A software
+
+2.How to Use Tera Term Software
+ - Install Tera Term Software here:
+   >>>https://osdn.net/projects/ttssh2/releases/
+ - After Installation 
+   >> Pop up Window will Be shown choose Your Serial nd COM Port Connected(My Case was CH340 something like that)
+   >> click on "OK" . 
+   >> Now Go to Setup ->> Serial Port Setup ->> change "Speed" to "115200" ->>>click on "OK"
+ - Log will start Printing Your Output On Console
+ - Now Go to File ->> Log.. ->> Save your file with Extension (.txt) [eg. Teraterm.txt] 
+ - Let It Complete Whole scanning Till The End
+ - Close The Window
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+See Your output in Form Of
+Example||
+       \/
+1 2 3
+4 5 6
+4 5 6
+10 23 354
+.. .. ..
+.  .  .
+
+
+##############################################################################################################
+
+3. We HaVe Use "Displaz" Software TO Get The Output (Get the Latest Release)
+  =>Download From Here : http://c42f.github.io/displaz/
+
+  $ Install the Whole Software(Windows Only)
+  $ OPen And click on Open  Your (.txt)File Zoom nd Use Cursor and Increase Radius Size To See Clearly
+
+
+Note: The Software Used in The Whole Project Are Only For Windows Only I don't Have Alternatives For Mac Or Linux  
